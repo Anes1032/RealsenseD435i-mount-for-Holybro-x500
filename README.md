@@ -1,6 +1,6 @@
 # Realsense D435i Mount For Holybro X500
 
-![Mounted RealSense on Holybro X500](media/IMG_2855.jpg)
+![Mounted RealSense on Holybro X500](media/IMG_2844.jpg)
 
 A 3D printable mount for attaching Intel RealSense D435i camera to Holybro X500 drone.
 
